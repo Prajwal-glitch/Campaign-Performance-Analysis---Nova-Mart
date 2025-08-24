@@ -8,8 +8,15 @@ The analysis was done using **Python (Pandas, Matplotlib, Seaborn)** and insight
 
 ## 📊 Project Overview
 
-📸 Example Visualization:  
-![Sales Analysis](screenshot.png)
+## 📸 Visualizations
+
+![Visualization 1](images/image1.png)  
+![Visualization 2](images/image2.png)  
+![Visualization 3](images/image3.png)  
+![Visualization 4](images/image4.png)  
+![Visualization 5](images/image5.png)  
+![Visualization 6](images/image6.png)  
+
 
 ---
 
