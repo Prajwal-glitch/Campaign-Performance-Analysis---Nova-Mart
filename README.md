@@ -6,59 +6,14 @@ The analysis was done using **Python (Pandas, Matplotlib, Seaborn)** and insight
 
 ---
 
-## 📊 Project Overview
-
 ## 📸 Visualizations
 
-![Visualization 1](images/image1.png)  
-![Visualization 2](images/image2.png)  
-![Visualization 3](images/image3.png)  
-![Visualization 4](images/image4.png)  
-![Visualization 5](images/image5.png)  
-![Visualization 6](images/image6.png)  
-
-
----
-
-## 🛠️ Tasks Performed
-
-1. **Store Distribution Analysis**  
-   - Visualized number of stores across cities.  
-   - Compared Bengaluru (highest store count) with Chennai & Hyderabad.  
-
-2. **Category Sales Analysis** (Sankranti Campaign)  
-   - Calculated category-wise percentage contribution to post-promo sales.  
-   - Visualized using a pie chart.  
-
-3. **Price vs Sales Correlation**  
-   - Examined correlation between base price (after promo) and units sold (after promo).  
-   - Found price sensitivity trends.  
-
-4. **Pre-Promo Sales Distribution**  
-   - Analyzed sales distribution before promo across categories.  
-   - Insights for category-specific promotion planning.  
-
-5. **ISU% Across Cities**  
-   - Identified cities with highest and lowest incremental units sold after promo.  
-   - Compared effectiveness of promotions by geography.  
-
-6. **Promotion Type Analysis (Hyderabad)**  
-   - Compared Incremental Revenue vs Incremental Units Sold.  
-   - Identified promo types that maximize revenue vs volume.  
-
-7. **Revenue Comparison (Bengaluru)**  
-   - Compared revenue before and after promotions for each category.  
-   - Observed promotional effectiveness in driving revenue growth.  
-
----
-
-## 📈 Key Insights
-
-- **Bengaluru** has the largest store network, giving it a natural sales advantage.  
-- **Madurai** showed the highest ISU% (121%), highlighting strong promo effectiveness.  
-- **Visakhapatnam** showed almost no uplift, suggesting promo redesign is needed.  
-- **Product categories** like Grocery & Staples benefited most from promotions.  
-- Promotions increase **volume significantly**, but the impact on **revenue depends on discount depth**.  
+![Visualization 1](Images/image1.png)  
+![Visualization 2](Images/image2.png)  
+![Visualization 3](Images/image3.png)  
+![Visualization 4](Images/image4.png)  
+![Visualization 5](Images/image5.png)  
+![Visualization 6](Images/image6.png)  
 
 ---
 
