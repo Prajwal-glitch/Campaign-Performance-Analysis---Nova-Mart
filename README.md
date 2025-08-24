@@ -1,4 +1,4 @@
-# AtliQ Mart Promotions Data Analysis
+# Data Analysis project 
 
 This project is part of the **Codebasics Virtual Internship** where I analyzed the impact of various promotions on sales performance across different cities, stores, and product categories for **AtliQ Mart**.  
 
