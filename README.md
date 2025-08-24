@@ -8,11 +8,8 @@ The analysis was done using **Python (Pandas, Matplotlib, Seaborn)** and insight
 
 ## 📊 Project Overview
 
-The dataset consists of:
-- **dim_campaigns.csv** – Campaign details (ID, name, start/end date)  
-- **dim_products.csv** – Product details (code, name, category)  
-- **dim_stores.csv** – Store details (store_id, city)  
-- **fact_events.csv** – Sales transactions (before and after promotion, promo type)  
+📸 Example Visualization:  
+![Sales Analysis](screenshot.png)
 
 ---
 
